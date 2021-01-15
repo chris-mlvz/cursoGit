@@ -10,5 +10,6 @@ Repositorio creado para seguir el [ curso de Git y Github](https://platzi.com/cu
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por Platzi Team
 
 **Este readme.md es un una prueba.**
