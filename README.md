@@ -11,10 +11,7 @@ Repositorio creado para seguir el [ curso de Git y Github](https://platzi.com/cu
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por Platzi Team
-<<<<<<< HEAD
-=======
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
->>>>>>> readme-mejorado
 
 **Este readme.md es un una prueba.**
